@@ -1,0 +1,29 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace
+/bin/
+/pkg/
+
+# Executables
+hchi
+hchi.exe
+
+# Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+
+# OS generated files
+*.tmp
+*~
